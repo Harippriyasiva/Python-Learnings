@@ -1,7 +1,7 @@
 wallet = 41
 print(wallet)
 
-//Another example
+#Another example
 
 x =20
 print(x)
